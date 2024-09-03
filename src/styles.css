@@ -295,6 +295,15 @@ main {
   opacity: 0;
 }
 
+.lorem-ipsum1 {
+  color: #FFF;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 25px;
+  /* text-transform: uppercase; */
+}
+
 .section--five--container {
   display: flex;
   flex-direction: column;
